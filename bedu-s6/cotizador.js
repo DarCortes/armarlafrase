@@ -1,9 +1,0 @@
-//VARIABLES
-
-
-
-//FUNCIONES
-
-
-
-//EVENTOS
